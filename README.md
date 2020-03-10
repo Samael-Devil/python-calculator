@@ -1,3 +1,3 @@
 # Calculator
 
-A Simple CLI based calculator written usin python language.
+A Simple CLI based calculator written using python language.
